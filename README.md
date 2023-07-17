@@ -34,13 +34,13 @@ The application provides an environment to experiment with password cracking tec
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/md5-password-cracking.git
+git clone https://github.com/rudraparmar76/CrackMD5.git
 ```
 
 2. Change into the project directory:
 
 ```bash
-cd md5-password-cracking
+cd CrackMD5
 ```
 
 3. Ensure you have PHP installed on your system.
